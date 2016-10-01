@@ -3,4 +3,4 @@
 
 ##组成
 -  RabbitMQ 官方教程入门指南
--  等多关于JAVA环境下使用RabbitMQ的实例场景
+-  更多关于JAVA环境下使用RabbitMQ的实例场景（如mqcase包下的实例）
